@@ -1,0 +1,21 @@
+.initiallyhidden {
+  display: none;
+  font-size: 25px;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+  font-size: 33px;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+
+
+/*#walrus-play {
+  display: none;
+}
+*/
